@@ -33,7 +33,7 @@ namespace program.Infrastructure
                 result = date1.Day.ToString("00") + "." + date1.Month.ToString("00") + " - " + date2.Date.ToShortDateString();
             }
 
-            if (date1.Month != date2.Month && date1.Year != date2.Year)
+            if (date1.Year != date2.Year)
             {
                 result = date1.Date.ToShortDateString() + " - " + date2.Date.ToShortDateString();
             }
