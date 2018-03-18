@@ -12,7 +12,7 @@ Print data range in console
 ```sh
 ~\program\bin\Release
 ```
-3. Enter the data by formula shown below and press **ENTER** button to acceptd
+3. Enter the data by formula shown below and press **ENTER** button to accept.
 
 ```sh
 program.exe date1 date2
