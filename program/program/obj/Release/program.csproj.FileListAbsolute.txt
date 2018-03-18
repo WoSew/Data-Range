@@ -1,0 +1,7 @@
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program\bin\Release\program.exe.config
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program\bin\Release\program.exe
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program\bin\Release\program.pdb
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program\obj\Release\program.csprojResolveAssemblyReference.cache
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program\obj\Release\program.csproj.CoreCompileInputs.cache
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program\obj\Release\program.exe
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program\obj\Release\program.pdb

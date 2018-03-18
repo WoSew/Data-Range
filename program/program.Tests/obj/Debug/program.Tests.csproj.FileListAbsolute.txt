@@ -1,0 +1,16 @@
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\program.Tests.dll
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\program.Tests.pdb
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\program.exe
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\program.pdb
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\program.exe.config
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\obj\Debug\program.Tests.csprojResolveAssemblyReference.cache
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\obj\Debug\program.Tests.csproj.CoreCompileInputs.cache
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\obj\Debug\program.Tests.dll
+D:\01_Toci\100_GIT\MakingWaves\DataRange\program\program.Tests\obj\Debug\program.Tests.pdb
